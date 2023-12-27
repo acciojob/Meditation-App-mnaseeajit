@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+#app {
+  max-width: 800px;
+  margin: auto;
+}
+
+.vid-container {
+  margin-bottom: 20px;
+}
+
+.player-container {
+  margin-bottom: 20px;
+}
+
+.sound-picker {
+  margin-bottom: 20px;
+}
+
+.time-select {
+  margin-bottom: 20px;
+}
+
+.time-display {
+  margin-bottom: 20px;
+}
+
+.play {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
